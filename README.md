@@ -1,8 +1,8 @@
-<p align="center">
+<p align="center", size=12>
 # Hello, Manns Here :grey_exclamation: 👋
 </p>
-### Hel, Manns here 👋
-## Hi 2
+
+### Currently taking CS @ WVSU
 
 
 <!--
