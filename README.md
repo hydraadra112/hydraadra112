@@ -1,7 +1,4 @@
-<p align="center", size=12>
 # Hello, Manns Here :grey_exclamation: 👋
-</p>
-
 ### Currently taking CS @ WVSU
 
 
