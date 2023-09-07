@@ -1,6 +1,9 @@
-### Hello, Manns here 👋
+<p align="center">
+# Hello, Manns Here :grey_exclamation: 👋
+</p>
+### Hel, Manns here 👋
 ## Hi 2
-# Hi 1
+
 
 <!--
 **hydraadra112/hydraadra112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
