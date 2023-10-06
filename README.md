@@ -1,8 +1,5 @@
 # Hello, Manns Here :grey_exclamation: 👋
 ### Currently taking CS @ WVSU
-Aspiring Software Dev/Eng
-Future Data Analyst
-C++ & Python Lover
 
 
 <!--
