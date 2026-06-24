@@ -10,6 +10,7 @@ My crafts might lean towards SWE with a custom-trained AI, yet I am enthusiastic
 ##  🚀 Artifacts 
 
 - [**EyeZite**](https://github.com/hydraadra112/EyeZite-public.git) - Our undergraduate thesis. A diabetic retinopathy (DR) lesion detector and grade classifier, with me as the project lead and backend developer.
+- [**vance**](https://github.com/hydraadra112/vance.git) - A unified CPU scheduling simulation Python package, published in PyPI. Got tired of scattering implementations among the internet. Included hardware representations as well.
 - [**Debunkr**](https://github.com/hydraadra112/Debunkr.git) - A Filipino fake news classifier, with ensemble learning. I led the project, engineered the backend, manually crafted the preprocessing pipeline, and trained the AI models.  
 - [**Rezbin AI**](https://github.com/Rezbin/ai-model-v2.0.git) - My internship project from [Rezbin](https://www.facebook.com/rezbin.ph), a multiclass trash classifier using MobileNetV2, trained with selective layer freezing. Deployed as a microservice using FastAPI with Docker. Primarily a paper replication 
 
