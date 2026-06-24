@@ -1,43 +1,38 @@
-# Hi, I'm **Manuel** 👋
 
-But you can call me _Manns_.
+#  Greetings, fellow artisan 🌊
 
-## 🧭 About Me
+I'm ⚡️ **Manuel** ⚡️,  an "artisan" in the programming domain. I see and create programs not only as a deadline to meet, but a canvas to paint for peer engineers to critique.
 
-💻 I'm a programmer and aspiring researcher fueled by curiosity and precision.  
-🌀 Adaptability is my specialty—I thrive in fast-changing environments.  
-🏃 I have the endurance for long-term, large-scale projects,  
-⚡ yet the speed to deliver MVPs faster than the speed of light.  
-🎩 I wear many hats—frontend, backend, project management, design, and marketing.  
-💬 I do not confine myself to any field. I love problem solving as a whole, therefore can adapt to any situation.
+I obsess over simplicity, structure, and clean architecture. I optimize for readability over complexity, don't repeat myself in code, functions have a single responsibility, and I commit atomically.
 
-## 🔧 Tools
+My crafts might lean towards SWE with a custom-trained AI, yet I am enthusiastically looking forward to develop edge-level artifacts to tinker for high performance applications, and make workflows between teams seamless as DevOps.   
 
-I'm exploring technologies to master, but these are the tech stacks that I have explored throughout my projects:
+##  🚀 Artifacts 
 
-- Frontend: ReactJS, NextJS, SvelteKit, TailwindCSS
-- Backend: FastAPI,Firebase
-- Database: SQLite, MongoDB
-- Deployment: Docker, HuggingFace Spaces
-- AI: PyTorch, SKLearn, Pandas, Numpy
-- CMS: Sanity.io
+[**EyeZite**](https://github.com/hydraadra112/EyeZite-public.git) - Our undergraduate thesis. A diabetic retinopathy (DR) lesion detector and grade classifier, with me as the project lead and backend developer.  
 
-Most of my projects are done in teams, with me as the lead, hence my minimal stack variety. **But don't let it discourage you**, remember what Bruce Lee said:
+[**Debunkr**](https://github.com/hydraadra112/Debunkr.git) - A Filipino fake news classifier, with ensemble learning. I led the project, engineered the backend, manually crafted the preprocessing pipeline, and trained the AI models.  
 
-> I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.
+[**Rezbin AI**](https://github.com/Rezbin/ai-model-v2.0.git) - My internship project from [Rezbin](https://www.facebook.com/rezbin.ph), a multiclass trash classifier using MobileNetV2, trained with selective layer freezing. Deployed as a microservice using FastAPI with Docker. Primarily a paper replication 
 
-## 🌱 Projects
+##  🪐 Side Endeavors
+- [WVSU Re:Claim](https://reclaim.wvsu-usc.org) - A lost & found web app for WVSU, founded & led by me. Managed dev, marketing, operations, and creative teams. 
+- [SPARK Hub Website](https://spark-hub-website.vercel.app) - A fullstack website for my most beloved innovation student organization. Led the entire project, but focused on CMS development. 
+- [BINHI Website](https://binhi.wvsu.edu.ph/) - WVSU's official technology business incubator website, with me as one of the frontend developers.  
 
-**EyeZite** (ongoing) - Our undergraduate thesis. A diabetic retinopathy (DR) lesion detector and grade classifier, with me as the project lead and backend developer.  
-[**SPARK Hub Website**](https://spark-hub-website.vercel.app/) - A fullstack website for my most beloved innovation student organization. Led by me, with occassional fullstack development tasks.  
-[**BINHI Website**](https://binhi.wvsu.edu.ph/) - WVSU's official technology business incubator website, with me as one of the frontend developers using NextJS.  
-[**Debunkr**](https://github.com/hydraadra112/Debunkr.git) - A Filipino fake news classifier, with ensemble learning using a Tagalog dataset, and a English-based news dataset. I led the project, developed the backend, and trained the AI models.  
-[**Perapal**](https://github.com/hydraadra112/perapal.git) - A budgeting mobile application made with Flutter. I led the planning, execution, and development.  
-[**Rezbin AI v2**](https://github.com/Rezbin/ai-model-v2.0.git) - My internship project from [Rezbin](https://www.facebook.com/rezbin.ph), a multiclass trash classifier using MobileNetV2. Deployed as a microservice using FastAPI with Docker.  
 
-## 📟 Contact Me
+## 🧑‍🎨 An artisan's essentials
 
-What if, **we collaborate**?
+| Category | Tools & Technologies |
+| :--- | :--- |
+| Lang/Frameworks | Python · C/C++ · JS/TS · Dart · Bun · Linux |
+| Web Dev** | ReactJS · NextJS · SvelteKit · TailwindCSS · HTML/CSS · Flutter |
+| Backend & DB | FastAPI · Node.js · Firebase · SQLite · MongoDB · Sanity.io |
+| DevOps & Infra | Git · Docker · Dokploy · Vercel · Netlify · GitHub Actions · Husky |
+| AI & Data | PyTorch · TensorFlow · SKLearn · Pandas · NumPy · HF Spaces |
 
-📧 carado.johnp11q@gmail.com  
-🔷 LinkedIn: John Manuel Carado
+
+##  🪼 Collaborate with me!
+✉️: [carado.johnp11q@gmail.com](mailto:carado.johnp11q@gmail.com)
+🔷 LinkedIn: [John Manuel Carado](https://www.linkedin.com/in/mannsmanuel)
+✒️ Blog: https://jmanns.bearblog.dev
