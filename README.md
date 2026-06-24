@@ -5,7 +5,7 @@ I'm ⚡️ **Manuel** ⚡️,  an "artisan" in the programming domain. I see and
 
 I obsess over simplicity, structure, and clean architecture. I optimize for readability over complexity, don't repeat myself in code, functions have a single responsibility, and I commit atomically.
 
-My crafts might lean towards SWE with a custom-trained AI, yet I am enthusiastically looking forward to develop edge-level artifacts to tinker for high performance applications, and make workflows between teams seamless as DevOps.   
+While my recent work anchors on AI-driven software, I craft with an eye toward edge-level performance and automated, friction-free DevOps pipelines.
 
 ##  🚀 Artifacts 
 
