@@ -1,5 +1,5 @@
 
-#  Greetings, fellow artisan 🌊
+#  🌊 Greetings!
 
 I'm ⚡️ **Manuel** ⚡️,  an "artisan" in the programming domain. I see and create programs not only as a deadline to meet, but a canvas to paint for peer engineers to critique.
 
@@ -19,7 +19,7 @@ My crafts might lean towards SWE with a custom-trained AI, yet I am enthusiastic
 - [BINHI Website](https://binhi.wvsu.edu.ph/) - WVSU's official technology business incubator website, with me as one of the frontend developers.  
 
 
-## 🧑‍🎨 An artisan's essentials
+## 🧑‍🎨 My essentials
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -31,6 +31,6 @@ My crafts might lean towards SWE with a custom-trained AI, yet I am enthusiastic
 
 
 ##  🪼 Collaborate with me!
-✉️: [carado.johnp11q@gmail.com](mailto:carado.johnp11q@gmail.com)
-🔷 LinkedIn: [John Manuel Carado](https://www.linkedin.com/in/mannsmanuel)
-✒️ Blog: https://jmanns.bearblog.dev
+- ✉️: [carado.johnp11q@gmail.com](mailto:carado.johnp11q@gmail.com)
+- 🔷 LinkedIn: [John Manuel Carado](https://www.linkedin.com/in/mannsmanuel)
+- ✒️ Blog: https://jmanns.bearblog.dev
